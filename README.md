@@ -1,5 +1,5 @@
 # Brain Pressure Monitoring System
-A practice program that monitors intracranial pressure, coded in Python.
+A program for practicing vibe coding that monitors intracranial pressure, coded in Python.
 It processes time-series intracranial pressure (ICP) readings, flags early signs of shunt blockage or acute pressure surges, and shows the result on a live dashboard.
 All data is synthetic.
 
