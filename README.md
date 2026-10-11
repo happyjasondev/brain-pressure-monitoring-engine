@@ -7,7 +7,7 @@
 </a>
 
 ## 🔬 View the Website
-**Explore the live interactive monitor:** [https://happyjasondev.github.io/brain-pressure-monitoring-engine/](https://happyjasondev.github.io/brain-pressure-monitoring-engine/)
+**Explore the live interactive monitor, then click on "Play Data Stream" to view the data trend:** [https://happyjasondev.github.io/brain-pressure-monitoring-engine/](https://happyjasondev.github.io/brain-pressure-monitoring-engine/)
 
 ## 🖱️ How it works:
 
