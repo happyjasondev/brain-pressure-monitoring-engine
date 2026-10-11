@@ -36,6 +36,6 @@
 ## ⚠️ Disclaimer
 
 This software is developed solely for educational and portfolio purposes.
-All data streams, waveform inputs, and pressure values are generated and do not represent real human patient data.
+All data streams, waveform inputs, and pressure values are synthetic and do not represent real human patient data.
 The analytical pipeline, anomaly flags, and predictive trend forecasts do not constitute medical software, clinical diagnosis, or treatment recommendations.
 Real-world intracranial pressure interpretation and hydrocephalus management must always be conducted by qualified medical professionals using regulatory-approved medical hardware and software.
