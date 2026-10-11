@@ -2,7 +2,7 @@
 
 > A vibe-coded Python-driven biomedical signal processing and anomaly detection engine paired with a web dashboard to monitor time-series Intracranial Pressure (ICP) data, predict hydrocephalus shunt failures, and trigger early warning alerts. All data is synthetic and generated with Python.
 
-<img src="Animation.gif" width="25%" alt="Brain Pressure Monitoring Engine Demo" />
+<img src="Animation.gif" width="50%" alt="Brain Pressure Monitoring Engine Demo" />
 
 ## 🔬 View the Website
 **Explore the live interactive monitor:** [https://happyjasondev.github.io/brain-pressure-monitoring-engine/](https://happyjasondev.github.io/brain-pressure-monitoring-engine/)
