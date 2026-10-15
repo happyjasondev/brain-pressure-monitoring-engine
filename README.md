@@ -1,10 +1,10 @@
 # 📈 Brain Pressure Monitoring Engine
 
-> A Python-driven and AI collaborated biomedical signal processing and anomaly detection engine, paired with a web dashboard to monitor time-series Intracranial Pressure (ICP) data, predict hydrocephalus shunt blockage, and trigger early warning alerts. All data is synthetic and generated with Python.
+> A Python-driven, AI-collaborated biomedical signal processing and anomaly detection engine, paired with a web dashboard that monitors time-series Intracranial Pressure (ICP) data, flags patterns resembling hydrocephalus shunt blockage, and triggers early warning alerts. All data is synthetic and generated with Python.
 
-> Currently, Intracranial monitoring (ICP) equipment are only available in medical institutions. If lightweight, portable monitoring devices become available for everyday wear in the future, it would greatly benefit hydrocephalus patients.
+> Intracranial pressure (ICP) monitoring equipment is currently largely limited to hospitals and specialized clinics. If  portable ICP monitors for everyday wear become available in the future, they could greatly help people living with hydrocephalus.
 
-> I made this program to learn whether shunt blockages could be predicted by tracking brain pressure fluctuations. If this monitor is paired with a portable ICP device, patients could keep an eye on their brain pressure at any time, rather than only realizing a blockage has occurred after sleeping for abnormally long periods of times or even falling into a coma.
+> I built this project to explore whether shunt blockages could be flagged early by tracking brain pressure fluctuations. If this approach were validated on real clinical data and paired with a portable ICP sensor, patients could keep track of their brain pressure at any time, rather than only realizing a blockage has occurred after symptoms such as severe headache, unusual drowsiness, or loss of consciousness.
 
 <a href="https://happyjasondev.github.io/brain-pressure-monitoring-engine/">
 <img src="Animation.gif" width="60%" alt="Brain Pressure Monitoring Engine Demo" />
